@@ -1,0 +1,6 @@
+namespace WeiXinApi.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
